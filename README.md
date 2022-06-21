@@ -94,7 +94,7 @@ MR MKN TG
 
 ## TELAGRAM SUPPORT 
 
-* [![MKN BOTZ](https://img.shields.io/static/v1?label=MICKEY&message=BOTS&color=critical)](https://t.me/mallumoviesmalayalam1)
+* [![MICKEY BOT](https://img.shields.io/static/v1?label=MICKEY&message=BOTS&color=critical)](https://t.me/mallumoviesmalayalam1)
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
